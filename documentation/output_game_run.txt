@@ -1,0 +1,22 @@
+Player Overview:
+→ Simon (X)     with 3 turn(s) yet.
+  Bot 1 (O)     with 3 turn(s) yet.
+  Bot 2 (+)     with 3 turn(s) yet.
+  Bot 3 (#)     with 3 turn(s) yet.
+
+      1   2   3   4   5   6   7   8 
+    ---------------------------------
+  1 | X | + |   |   |   |   |   |   |
+    ---------------------------------
+  2 |   | X | # |   |   |   |   |   |
+    ---------------------------------
+  3 |   |   | X | # |   |   | O |   |
+    ---------------------------------
+  4 |   | O |   |   |   | # |   |   |
+    ---------------------------------
+  5 | O |   | + |   |   | + |   |   |
+    ---------------------------------
+Please enter the x (horizontal) and y (vertical) coordinates for your next move:
+x = horizontal (1 to 8), y = vertical (1 to 5)
+Enter x: 4
+Enter y: 

@@ -1,0 +1,34 @@
+Please enter the number of players (1 to 31): -1
+Invalid number! Please enter a number between 1 and 31.
+Please enter the number of players (1 to 31): hallo
+Invalid input! Please enter a numeric value.
+Please enter the number of players (1 to 31): 0
+Invalid number! Please enter a number between 1 and 31.
+Please enter the number of players (1 to 31): 32
+Invalid number! Please enter a number between 1 and 31.
+Please enter the number of players (1 to 31): 4
+Please enter the board width: 8
+Please enter the board height: 5
+Please enter the minimum consecutive tiles to win (1 to 8): 5
+
+Please create the 4 players before playing.
+You can choose Human players (with names and individual symbols) and Bot players.
+
+1. player creation:
+Select player type: (H) Human, (B) Bot
+Choice: H
+Please choose your symbol (one character, e.g. X, O, #): 
+X    
+Please enter your name: Simon
+
+2. player creation:
+Select player type: (H) Human, (B) Bot
+Choice: b
+
+3. player creation:
+Select player type: (H) Human, (B) Bot
+Choice: b
+
+4. player creation:
+Select player type: (H) Human, (B) Bot
+Choice:    
