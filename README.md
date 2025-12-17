@@ -40,6 +40,8 @@ These extensions make the game highly flexible and allow for different difficult
 
 ### Object-Oriented Programming Structure
 
+![UML class diagram](./documentation/UML.png "UML class diagram")
+
 The project follows object-oriented design principles with clear separation of concerns:
 
 **Core Classes:**
